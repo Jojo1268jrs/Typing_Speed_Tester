@@ -34,3 +34,5 @@ To use Typing Speed Tester, clone the repository and open the `index.html` file 
    ```bash
    cd typing-speed-tester
    ```
+
+3. Open index.html in your preferred web browser.
