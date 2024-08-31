@@ -36,3 +36,11 @@ To use Typing Speed Tester, clone the repository and open the `index.html` file 
    ```
 
 3. Open index.html in your preferred web browser.
+
+### Usage
+1. Open the application in your browser.
+2. Read the provided text in the "origin-text" section.
+3. Click inside the textarea and start typing.
+4. The timer will start automatically. Type the text as accurately and quickly as possible.
+5. Once the text is typed correctly, the timer will stop, and your WPM and accuracy will be displayed.
+6. Click the "Start over" button to reset the test and generate a new paragraph.
