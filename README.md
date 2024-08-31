@@ -28,3 +28,9 @@ To use Typing Speed Tester, clone the repository and open the `index.html` file 
 
    ```bash
    git clone https://github.com/yourusername/typing-speed-tester.git
+   ```
+   
+2. Navigate to the project directory
+   ```bash
+   cd typing-speed-tester
+   ```
